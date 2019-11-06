@@ -1,5 +1,4 @@
 C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csprojAssemblyReference.cache
-C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll.config
 C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll
 C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.pdb
@@ -112,3 +111,9 @@ C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNo
 C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
+C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.dll
+C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.xml
+C:\ElevenFiftyProjects\DotNetProjects\1_Blue\Projects\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml
